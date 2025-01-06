@@ -1,7 +1,7 @@
 
 ### NAME : SUGESHWA S
 ### REG NO:24900706
-### EX 2 : BOOLEAN FUNCTION MINIMIZATION
+### EX 2 : IMPLEMENTATION BOOLEAN FUNCTION 
 ### AIM:
 
 To implement the given logic function verify its operation in Quartus using Verilog programming.
